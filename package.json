@@ -6,5 +6,8 @@
     "react-tsparticles": "^2.12.2",
     "tsparticles": "^3.7.1",
     "web-vitals": "^4.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
